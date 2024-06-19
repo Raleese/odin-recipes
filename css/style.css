@@ -4,10 +4,6 @@ body {
     background-color: rgb(194, 245, 217);
 }
 
-* {
-    outline: 2px solid red;
-}
-
 img {
     width: 500px;
     height: auto;
@@ -19,8 +15,5 @@ h1 {
 
 span {
     background-color: rgb(148, 226, 245);
-}
-
-li {
-    padding: 5px;
+    font-size: 20px;
 }
