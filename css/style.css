@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+    background-color: rgb(255, 236, 191);
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+}
