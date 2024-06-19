@@ -4,6 +4,10 @@ body {
     background-color: rgb(194, 245, 217);
 }
 
+* {
+    outline: 2px solid red;
+}
+
 img {
     width: 500px;
     height: auto;
@@ -11,4 +15,12 @@ img {
 
 h1 {
     text-align: center;
+}
+
+span {
+    background-color: rgb(148, 226, 245);
+}
+
+li {
+    padding: 5px;
 }
